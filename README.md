@@ -6,7 +6,7 @@ Data  Science Student
 
 - Learning Python and Machine Learing
 - Intersted in Data Analysis and AI
-- Building projects to improve my skills
+- Building real-world projects to improve my skills
 
 ## Skills
 
@@ -20,7 +20,7 @@ Data  Science Student
 
 ## Current Projects
 
-- Automated Web scraping Web App
+- Automated Web scraping Website
 - Machine Learning Projects
 - Database Systems Projects
 
