@@ -8,7 +8,7 @@ Data  Science Student
 - Intersted in Dtaa Analysis and AI
 - Building projects to improve my skills
 
-#Skills
+## Skills
 
 - Python
 - SQL
