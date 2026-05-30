@@ -5,7 +5,7 @@ Data  Science Student
 ## About me
 
 - Learning Python and Machine Learing
-- Intersted in Dtaa Analysis and AI
+- Intersted in Data Analysis and AI
 - Building projects to improve my skills
 
 ## Skills
