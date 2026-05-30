@@ -27,4 +27,4 @@ Data  Science Student
 ## Contact
 
 Email: nooralwy04@gmail.com
-LinkedIn: linkedin.com/in/noorhussein04
+LinkedIn: http://linkedin.com/in/noorhussein04
